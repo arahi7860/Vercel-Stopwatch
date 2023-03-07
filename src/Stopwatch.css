@@ -12,8 +12,8 @@ h1 {
 }
 
 button {
-  background: #4479BA;
-  color: #FFF;
+  background: rgb(180, 12, 12);
+  color: #fff;
   font-family: Josefin Slab;
   font-size: 50px;
   text-align: center;
@@ -24,6 +24,6 @@ button {
   box-shadow: 2px 2px black;
 }
 
-button:hover{
-  background: #356094;
+button:hover {
+  background: rgb(180, 12, 12);
 }
